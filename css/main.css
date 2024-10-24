@@ -288,29 +288,15 @@ body {
 }
 
 .main__itemthree:hover .main__buttonthree {
-    width: 180px;
-    height: 50px;
-    cursor: pointer;
-    background-color: transparent;
-    border: none;
-    background-color: #1fe374;
-    font-size: 20px;
-    font-weight: 700;
-    margin: 25px 90px;
-}
-
-.main__buttonthree:hover {
-    width: 200px;
-    height: 50px;
-    width: 180px;
-    height: 50px;
-    cursor: pointer;
-    background-color: transparent;
-    border: none;
-    background-color: #1fe374;
-    font-size: 20px;
-    font-weight: 700;
-    margin: 25px 90px;
+        width: 200px;
+        height: 50px;
+        cursor: pointer;
+        background-color: transparent;
+        border: none;
+        background-color: #1fe374;
+        font-size: 20px;
+        font-weight: 700;
+        margin: 25px 0;
 }
 
 .main__itemthree:hover {
