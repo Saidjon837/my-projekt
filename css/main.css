@@ -287,9 +287,6 @@ body {
     margin: 30px 50px;
 }
 
-.main__itemthree:hover .main__buttonthree {
-    transform: scale(1.1);
-}
 
 .main__itemthree:hover {
     cursor: pointer;
@@ -647,32 +644,6 @@ body {
         font-size: 18px;
         font-weight: 700;
         margin: 30px 50px;
-    }
-
-    .main__itemthree:hover .main__buttonthree {
-        width: 180px;
-        height: 50px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin: 25px 90px;
-    }
-
-    .main__buttonthree:hover {
-        width: 200px;
-        height: 50px;
-        width: 180px;
-        height: 50px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin: 25px 90px;
     }
 
     .main__itemthree:hover {
@@ -1033,33 +1004,10 @@ body {
         color: #d6dae5;
     }
 
-    .main__itemthree:hover .main__buttonthree {
-        width: 180px;
-        height: 50px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin: 25px 90px;
-    }
-
     .main__buttonthree {
         width: 250px;
         height: 50px;
         font-size: 20px;
-    }
-
-    .main__buttonthree:hover {
-        width: 300px;
-        height: 70px;
-        cursor: pointer;
-        border: none;
-        background-color: #1fe374;
-        font-size: 24px;
-        font-weight: 700;
-        margin: 25px 90px;
     }
 
     .main__itemthree:hover {
@@ -1516,19 +1464,6 @@ body {
         /* margin-left: 30px; */
     }
 
-    .main__itemthree:hover .main__buttonthree {
-        width: 620px;
-        height: 60px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin-bottom: 10px;
-        margin-left: 0;
-    }
-
     .main__buttonthree {
         width: 600px;
         height: 50px;
@@ -1537,16 +1472,6 @@ body {
         margin-left: 0;
     }
 
-    .main__buttonthree:hover {
-        width: 300px;
-        height: 70px;
-        cursor: pointer;
-        border: none;
-        background-color: #1fe374;
-        font-size: 24px;
-        font-weight: 700;
-        margin: 25px 90px;
-    }
 
     .main__itemthree:hover {
         cursor: pointer;
@@ -2040,36 +1965,12 @@ body {
         margin: 0;
     }
 
-    .main__itemthree:hover .main__buttonthree {
-        width: 920px;
-        height: 60px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin-bottom: 10px;
-        margin-left: 0;
-    }
-
     .main__buttonthree {
         width: 900px;
         height: 50px;
         font-size: 20px;
         margin-bottom: 20px;
         margin-left: 0;
-    }
-
-    .main__buttonthree:hover {
-        width: 930px;
-        height: 70px;
-        cursor: pointer;
-        border: none;
-        background-color: #1fe374;
-        font-size: 24px;
-        font-weight: 700;
-        margin: 25px 90px;
     }
 
     .main__itemthree:hover {
@@ -2508,24 +2409,6 @@ body {
         font-size: 18px;
         font-weight: 700;
         margin: 30px 50px;
-    }
-
-    .main__itemthree:hover .main__buttonthree {
-        transform: scale(1.1);
-    }
-
-    .main__buttonthree:hover {
-        width: 200px;
-        height: 50px;
-        width: 180px;
-        height: 50px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
-        background-color: #1fe374;
-        font-size: 20px;
-        font-weight: 700;
-        margin: 25px 90px;
     }
 
     .main__itemthree:hover {
